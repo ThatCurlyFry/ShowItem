@@ -1,0 +1,37 @@
+message:
+  #Use {n} for a new line.
+  prefix: '&e&l(!)&e '
+  primary: '&e'
+  secondary: '&7'
+  no-perms: '{primary}You do not have permission to link items in chat with [item].{n}{secondary}Purchase a rank with &n/buy{secondary} and try again!'
+  reload: '{prefix}ShowItem has been reloaded.'
+  empty-hand: '{prefix}You must {secondary}hold{primary} something to link in chat.'
+  on-cooldown: '{prefix}You must wait {secondary}{cooldown}{primary} until you can link items again!'
+
+#Leave at 0 for no cooldown.
+use_cooldown: 0
+
+#Leave blank for no permission.
+permission: 'showitem.use'
+
+#More to come, just suggest more and they can be added!
+hooks:
+  factions: false
+  factionsuuid: false
+  deluxetags: false
+  deluxechat: false
+  vault: true
+  placeholders: true
+
+format:
+  factions-format: '&8[&r{faction}&8] '
+  item-format: '[item]'
+  item-chat-format: '&f» &e&l{item}&f «'
+  #View all placeholders here: http://hastebin.com/kigoriquge.vhdl
+  #IMPORTANT READ: If you use essentials and you use {dis_name} you do not need {prefix} or {suffix}
+  chat-format: '{dis_name} &7» &e'
+  amount-format: '&a&lAmount: &f{amount}x'
+
+  
+#DO NOT EDIT THIS
+config-version: 2

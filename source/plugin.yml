@@ -1,0 +1,9 @@
+name: ShowItem
+main: me.thatcurlyfry.showitem.Main
+version: 1.0-STABLE
+author: ThatCurlyFry
+description: Show an Item in chat!
+softdepend: [Factions, Vault, DeluxeTags, DeluxeChat]
+commands:
+  showitem:
+    description: Main LinkItem command.

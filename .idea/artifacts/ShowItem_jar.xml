@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ShowItem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ShowItem_jar</output-path>
+    <root id="archive" name="ShowItem.jar">
+      <element id="module-output" name="ShowItem" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.1/gson-2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mkremins/fanciful/0.3.3-SNAPSHOT/fanciful-0.3.3-20160128.025139-2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/milkbowl/vault/Vault/1.5.6/Vault-1.5.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/artifacts/ShowItem_jar/Factions.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Factions.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/DeluxeTags.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/DeluxeChat.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

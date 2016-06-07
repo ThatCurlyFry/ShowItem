@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Factions">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Factions-2.7.5/Factions-2.7.5/Factions.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Factions-2.7.5/Factions-2.7.5/MassiveCore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
